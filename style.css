@@ -1,0 +1,110 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+  
+}
+h1{
+
+    font-size: 30px;
+    color: gray;
+    
+
+}
+p{
+    font-size: 20px;
+    
+}
+
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.image-ed{
+    width: 300%;
+    padding-left:2%;
+   
+    
+}
+.image-ed img{
+    width: 50%;
+    
+    padding-left: 30%;
+}
+.order-food{
+    text-decoration: none;
+  background-image: linear-gradient(rgba(255, 102, 0, 0.932),tomato);
+  padding: 10px 20px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 50px;
+   
+}
+.top-banner{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    margin-left: 2%;
+    margin-right: 2%;
+ 
+}
+
+
+
+    
+section{
+    display: flex;
+}
+
+
+.first img{
+    width: 100%;
+    
+    
+}
+
+
+
+.first{
+    border: 1px solid orange;
+    width: 30%;
+   
+    padding: 10px 10px;
+    margin-left:5px;
+    margin-right: 5px;
+    border-radius: 20px;
+   box-shadow: 5px 10px 15px 10px gray;
+ 
+}
+.items{
+  display: flex ;
+  justify-content: space-around;
+}
+
+
+
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+}
+
+.orange-colo{
+    color: orange;
+    size: 20px;
+}
+
+
+.followers{
+    display: flex;
+    justify-content: space-around;
+    width: 92%;
+    padding: 10px 10px;
+    margin-left:40px;
+    margin-right:40px;
+    border-radius: 20px;
+    
+   box-shadow: 5px 10px 15px gray;
+
+}
